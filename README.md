@@ -1,6 +1,6 @@
 Hi, I’m Yasoda Lasiru 👋. 
 
-✨I'm a second year undergraduate at the Department of Electronics and Telecommunications Engineering, University of Moratuwa, Sri Lanka. 
+✨I'm a third year undergraduate at the Department of Electronics and Telecommunications Engineering, University of Moratuwa, Sri Lanka. 
 
 <!--- 
 - 👋 Hi, I’m Yasoda Lasiru.
